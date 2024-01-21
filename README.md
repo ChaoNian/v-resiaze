@@ -47,7 +47,6 @@ npm i vite - D
 1. npm 账号
 查看 npm 用户信息 npm whoami 
 登录npm npm login - 邮箱验证登录
-
 登录后 分布npm 库  npm publish  有邮件提示发布成功 后可在npm 网站 搜索 库的名字
-注意 直接  npm publish  出现不成功，电脑改用链接手机热点，重新 npm publish ，才难发布成功
+注意 直接  npm publish  出现不成功，电脑改用链接手机热点，重新 npm publish ，才能发布成功
 
