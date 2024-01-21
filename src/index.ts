@@ -25,7 +25,7 @@ function useResize (el:HTMLElement, callback:Function) {
     // vue 插件用法
     app.use(route).use(xxx)
 
-    这里的 install  给 上面代码u  se使用
+    这里的 install  给 上面代码use使用
  */
 
 
